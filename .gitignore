@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Visual Studio Code user specific files
+.vscode/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -35,6 +38,7 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
+*.code-workspace
 *.suo
 *.opensdf
 *.sdf
